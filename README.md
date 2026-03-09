@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Kruthika 👋
 
-<!--
-**Kruthika-K-H/Kruthika-K-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Business Systems student passionate about  
+Cloud Infrastructure, Linux Systems, Networking and Site Reliability Engineering.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Linux
+- AWS (EC2, S3, IAM)
+- Docker
+- Networking
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### System Health Monitor
+Python tool that monitors CPU, memory, disk usage and running processes with automated alerts.
+
+Tech: Python, psutil, AWS EC2
+
+### Network Diagnostics Tool
+Command line network troubleshooting tool for ping, DNS lookup, traceroute and port scanning.
+
+Tech: Python, socket, subprocess
+
+### Vulnerability Detection in Source Code
+Static analysis tool to detect security vulnerabilities in Python and Java source code.
+
+Tech: Python
+
+## Connect with me
+LinkedIn: linkedin.com/in/kruthika-k-h
